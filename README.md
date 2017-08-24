@@ -1,2 +1,3 @@
-# My-First-Repository
-El primero 
+#Repositorio del Equipo 1 
+
+
